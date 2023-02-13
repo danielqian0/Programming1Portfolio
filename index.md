@@ -3,8 +3,11 @@
 ## Programming 1 Semester 1 Projects:
 
 ### 00P Calculator
+
 Graphic based OOP calculator.
+
 ![Running Calculator]()
+
 [Source Code]()
 
 ### SpaceGame

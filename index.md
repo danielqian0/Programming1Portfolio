@@ -1,10 +1,16 @@
-# Welcome to Programming 1 Portfolio
+# Welcome to Daniel's Programming 1 Portfolio
 
 ## Programming 1 Semester 1 Projects:
 
 ### 00P Calculator
 Graphic based OOP calculator.
-Source Code
-Exported
+![Running Calculator]()
+[Source Code]()
 
-## Programming 1 Semester 2 Projects:
+### SpaceGame
+
+### Screensaver
+
+## Programming 2 Semester 2 Projects:
+
+### ShapeTester

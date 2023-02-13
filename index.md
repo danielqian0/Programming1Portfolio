@@ -19,7 +19,9 @@ Graphic based clicking game.
 
 Random screensaver generator application.
 
-![Running Screensaver]()
+![Running Screensaver](https://github.com/danielqian0/Programming1Portfolio/tree/gh-pages/src/calculator)
+
+[Source Code]()
 ## Programming 2 Semester 2 Projects:
 
 ### ShapeTester

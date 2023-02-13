@@ -12,8 +12,14 @@ Graphic based OOP calculator.
 
 ### SpaceGame
 
+Graphic based clicking game.
+
+![Running SpaceGame]()
 ### Screensaver
 
+Random screensaver generator application.
+
+![Running Screensaver]()
 ## Programming 2 Semester 2 Projects:
 
 ### ShapeTester

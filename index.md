@@ -14,7 +14,7 @@ Graphic based OOP calculator.
 
 Graphic based clicking game.
 
-![Running SpaceGame]()
+![Running SpaceGame](https://github.com/danielqian0/Programming1Portfolio/blob/gh-pages/images/SpaceGame.png)
 
 [Source Code](https://github.com/danielqian0/Programming1Portfolio/blob/gh-pages/src/SpaceGame.pde)
 ### Screensaver

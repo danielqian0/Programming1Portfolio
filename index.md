@@ -27,3 +27,12 @@ Random screensaver generator application.
 ## Programming 2 Semester 2 Projects:
 
 ### ShapeTester
+
+Volume and surface area calculator for various shapes.
+
+![Running ShapeTester] ()
+
+[Source Code]()
+
+###PigLatin Converter
+
